@@ -39,7 +39,7 @@ A VR training environment that adapts to trainees in real time by detecting thei
 
 | Project | Description |
 |---|---|
-| **EduNova / Synapse** — *HackAStone* | Multi-agent AI tutoring system for Malaysian SPM students. Served as **Team President** of "Chips Sudikayo" and led documentation. |
+| **EduNova** — *HackAStone* | AI tutoring system for Malaysian SPM students. Served as **UI/UX Designer** of EduNova and led documentation. |
 | **InfoSec Strategy — Carsem (M) Sdn. Bhd.** | Information security strategy covering AI-enhanced security and a phased implementation roadmap. |
 | **Smart Adaptive Airport Security System** | Discrete-event simulation of an adaptive airport screening process (Arena, queuing theory, UML). |
 | **PDPA Breach Case Study** | Analysis of the 2017 Malaysian mobile subscriber data breach under PDPA 2010 and the Amendment Act 2024. |
@@ -71,15 +71,14 @@ A VR training environment that adapts to trainees in real time by detecting thei
 </p>
 
 ---
-
+<!---
 ## 📊 GitHub Stats
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats"/>
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
 </p>
-
----
+--->
 
 <p align="center"><i>"Security is not a product, but a process."</i> — always learning, always building.</p>
 
